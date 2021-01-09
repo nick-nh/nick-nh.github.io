@@ -33,8 +33,6 @@ related_posts_section:
   min_common_tags:  2
 
 navigation:
- - title: Home
-   url: /index.html
  - title: About
    url: /about
 
