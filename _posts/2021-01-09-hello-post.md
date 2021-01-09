@@ -5,4 +5,4 @@ author: "nnh"
 ---
 
 Разработка на qlua для терминала Квик.
-[](https://github.com/nick-nh/qlua)
+[Индикаторы и скрипты](https://github.com/nick-nh/qlua)
