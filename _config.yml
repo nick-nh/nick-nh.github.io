@@ -32,6 +32,12 @@ related_posts_section:
   max_count:        5
   min_common_tags:  2
 
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+
 # Links to social media
 social:
   email: nick-h@yandex.ru

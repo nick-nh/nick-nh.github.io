@@ -4,6 +4,8 @@ title: About
 ---
 
 Nikolay Hartanovic
-Saint-Peterburg
+Saint-Petersburg, Russia
 
 lua (qlua) development
+
+nick-h@yandex.ru
