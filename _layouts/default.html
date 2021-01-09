@@ -9,15 +9,6 @@
         <a href="{{ site.baseurl }}/">
           <h2 class="nav-title">{{ site.title }}</h2>
         </a>
-        <nav class="nav-collapse">
-          <ul class="noList">
-              {% for link in site.navigation %}{% assign current = nil %}{% if page.url contains link.url %}{% assign current = 'current' %}{% endif %}
-              <li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
-                  <a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
-              </li>
-              {% endfor %}
-          </ul>
-        </nav>
         <ul class="nav-social-icons">
           {% if site.social.email %}
             <li><a target="_blank" href="mailto:{{ site.social.email }}"><i class="fas fa-envelope"></i></a></li>
@@ -32,6 +23,15 @@
             <li><a target="_blank" href="{{ site.social.youtube }}"><i class="fab fa-youtube"></i></a></li>
           {% endif %}
         </ul>
+        <nav class="nav-collapse">
+          <ul class="noList">
+              {% for link in site.navigation %}{% assign current = nil %}{% if page.url contains link.url %}{% assign current = 'current' %}{% endif %}
+              <li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
+                  <a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
+              </li>
+              {% endfor %}
+          </ul>
+        </nav>
       </div>
     </nav>
 
