@@ -4,6 +4,7 @@ title: About
 ---
 
 Nikolay Hartanovic
+
 Saint-Petersburg, Russia
 
 lua (qlua) development
