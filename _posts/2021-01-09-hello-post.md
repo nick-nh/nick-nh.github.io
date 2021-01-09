@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Начало"
+title: "Все индикаторы и скрипты для Квика"
 author: "nnh"
 ---
 
-Разработка на qlua для терминала Квик.
-[Индикаторы и скрипты](https://github.com/nick-nh/qlua)
+В этом репозитарии [индикаторы и скрипты](https://github.com/nick-nh/qlua) на qlua для терминала Квик.
