@@ -1,7 +1,8 @@
 # Site settings
-title:          Glukk Inc.
-description:    Разработка скриптов qLua
+title:          nnh Glukk Inc.
+description:    Разработка qLua скриптов
 url:            https://github.com/nick-nh/
+avatar:         /assets/mstile-150x150.png
 
 # Author
 author:
