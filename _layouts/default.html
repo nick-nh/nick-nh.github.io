@@ -7,7 +7,7 @@
     <nav class="nav">
       <div class="nav-container">
         <a href="{{ site.baseurl }}/">
-          <h2 class="nav-title"><img src="{{ site.avatar }}" />{{ site.title }}</h2>
+          <h2 class="nav-title"><img src="{{ site.avatar }}" width="48" height="48" style="float:left;margin:0 32px 32px 0;"/>{{ site.title }}</h2>
         </a>
         <ul class="nav-links-social-icons">
           {% for link in site.navigation %}{% assign current = nil %}{% if page.url contains link.url %}{% assign current = 'current' %}{% endif %}
