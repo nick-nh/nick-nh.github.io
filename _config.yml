@@ -1,0 +1,40 @@
+# Site settings
+title:          Glukk Inc.
+description:    Разработка скриптов qLua
+url:            https://github.com/nick-nh/qlua
+
+# Author
+author:
+  name:         Nikolay Hartanovic
+  email:        nick-h@yandex.ru
+  url:          https://nick-nh.github.io
+
+# Build settings
+markdown:       kramdown
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  # - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
+
+# Related posts settings
+related_posts_section:
+  max_count:        5
+  min_common_tags:  2
+
+# Links to social media
+social:
+  email: nick-h@yandex.ru
+  github: https://github.com/nick-nh/qlua
+  twitter: niknh
+  youtube: channel/UCKLHojn_B8Zs5GrkGWzmwJQ
