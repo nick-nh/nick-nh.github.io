@@ -9,4 +9,5 @@ Saint-Petersburg, Russia
 
 lua (qlua) development
 
-nick-h@yandex.ru
+email: nick-h@yandex.ru
+skype: nick.nh
