@@ -34,6 +34,8 @@ related_posts_section:
   min_common_tags:  2
 
 navigation:
+ - title: Продукты
+   url: /scripts_list
  - title: About
    url: /about
 
