@@ -1,4 +1,7 @@
 <head>
+  {% if site.google_analytics %}
+  {% include analytics.html %}
+  {% endif %}
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   {% if page.title == "Home" %}
@@ -24,7 +27,4 @@
 
   <!-- RSS -->
   {% feed_meta %}
-  {% if site.google_analytics %}
-  {% include analytics.html %}
-  {% endif %}
 </head>
