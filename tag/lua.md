@@ -2,6 +2,7 @@
 layout: tagpage
 title:  "Lua"
 tag: lua
+robots: noindex
 ---
 
 [Lua](https://www.lua.org/) -  язык программирования lua.<br>
