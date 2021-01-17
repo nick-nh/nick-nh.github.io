@@ -2,6 +2,7 @@
 layout: post
 title: "Скрипт transactionPocket"
 author: "nnh"
+tags: [Квик,квик,скрипт,lua,карман транзакций,qlua]
 ---
 
 <br>

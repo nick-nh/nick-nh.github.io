@@ -1,4 +1,7 @@
 <head>
+  {% if site.tags != "" %}
+  {% include collecttags.html %}
+  {% endif %}
   {% if site.google_analytics %}
   {% include analytics.html %}
   {% endif %}
