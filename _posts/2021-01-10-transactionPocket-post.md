@@ -2,6 +2,7 @@
 layout: post
 title: "Скрипт transactionPocket"
 author: "nnh"
+description: Cкрипт "Карман транзакций" для Квика.
 tags: [карман транзакций,скрипт,робот,lua,qlua,квик,quik]
 ---
 
