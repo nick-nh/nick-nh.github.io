@@ -194,7 +194,7 @@ tags: ["карман_транзакций",скрипт,робот,lua,qlua,кв
 
 Важно: для корректной работы в Windows 7 необходимо:
 - Windows 7 SP1
-- Установить дополнение https://support.microsoft.com/en-us/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392
+- [Установить дополнение](https://support.microsoft.com/en-us/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392).
 
 
 В папке transactionPocket\libs расположен подкаталог telegramServer. В нем размещены файлы запуска и настройки сервера отправки сообщений.
