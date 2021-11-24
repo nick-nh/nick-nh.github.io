@@ -10,7 +10,7 @@ tags: [barsSaver,скрипт,робот,lua,qlua,квик,quik]
 
 Данный скрипт позволяет организовать хранение данных баров, а также данных рассчитанных алгоритмов.
 
-Его можно взять здесь (https://github.com/nick-nh/qlua/blob/master/barsSaver)
+[Его можно взять здесь](https://github.com/nick-nh/qlua/blob/master/barsSaver)
 
 Для корректной работы необходимо обеспечить доступность библиотек:
 
