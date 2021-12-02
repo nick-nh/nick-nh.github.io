@@ -100,6 +100,47 @@ os.execute('start cmd /c call "'..path..'\\telegramServer\\startTeleServer.bat'.
 #### local t = assert(load('return '..str))()
 Полученные сообщения будут сохранены в массиве t[1], t[2] т.д.
 
+## Использование без библиотеки luaPipe
+
+Язык Lua позволяет открывать именованные каналы через команду io.open. Поэтому возможна отправка используя такой синтаксис
+
+    local function SendTeleMessage(msg, pipe_name)
+        local tele_pipe = io.open("\\\\.\\PIPE\\"..pipe_name, "w+b") -- открываем именованный канал
+        if not tele_pipe then
+            return false
+        end
+        tele_pipe:write(msg) -- записываем сообщение в канал
+        tele_pipe:close() -- закрываем канал
+    end
+
+А чтение из канала таким образом:
+
+    -- Аналогично прошлому примеру записываем в канал команду GetTeleMessage, чтобы сервер отправки вернул нам накопленные сообщения
+    local function GetTeleMessage(pipe_name)
+        local tele_pipe = io.open("\\\\.\\PIPE\\"..pipe_name, "w+b")
+        if not tele_pipe then
+            return false
+        end
+        tele_pipe:write('GetIncomeMessages()') -- записываем команду в канал
+
+        local rd = ''
+        local ct = os.time()
+        -- Т.к. время ожидания ответа может быть не мгновенным, то ожидаем 2 секунды, читая из канала ответ.
+        while os.time() - ct < 2 and rd == '' do
+            rd = tele_pipe:read('*a')
+        end
+        tele_pipe:close() -- закрываем канал
+
+        --Формат возврата - сериализованная таблица сообщений в виде строки
+        if type(rd) == 'string' then
+            local t = assert(loadstring('return '..rd))() -- загружаем в таблицу
+            if type(t) == 'table' then
+                return t
+            end
+        end
+    end
+
+
 ## Сборка
 
 Если вы хотите сами собрать библиотеки, то чтобы собрать MessagesQServer необходимо установить через NuGet в проект пакет Telegram.Bot.<br>
