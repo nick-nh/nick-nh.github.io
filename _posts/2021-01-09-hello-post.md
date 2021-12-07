@@ -17,7 +17,7 @@ tags: [индикатор,скрипт,робот,lua,qlua,квик,quik]
 
 - [maLib.lua - Библиотека типовых методов сглаживания и вспомогательных функция для построения алгоритмов.](https://github.com/nick-nh/qlua/blob/master/maLib.lua)
 
-    - [Описание](/_posts/2021-03-14/maLib)
+    - [Описание](/_posts/2021-03-14-maLib.md)
     - [MA.lua - Базовый пример использования библиотеки в индикаторе](https://github.com/nick-nh/qlua/blob/master/MA.lua)
 
 - [AMA.lua - Адаптивная скользящая средняя Перри Кауфмана.](https://github.com/nick-nh/qlua/blob/master/AMA.lua)
@@ -72,15 +72,15 @@ tags: [индикатор,скрипт,робот,lua,qlua,квик,quik]
 
 - [RenkoATR.lua - Реализация баров Ренко.](https://github.com/nick-nh/qlua/blob/master/RenkoATR.lua)
 
-  - [Описание](/_posts/2021-01-17/renko)
+  - [Описание](/_posts/2021-01-17-renko.md)
 
 - [emaRenkoATR.lua - EMA поверх баров Ренко.](https://github.com/nick-nh/qlua/blob/master/emaRenkoATR.lua)
 
-  - [Описание](/_posts/2021-01-17/renko)
+  - [Описание](/_posts/2021-01-17-renko.md)
 
 - [macdRenkoATR.lua - MACD поверх баров Ренко.](https://github.com/nick-nh/qlua/blob/master/macdRenkoATR.lua)
 
-  - [Описание](/_posts/2021-01-17/renko)
+  - [Описание](/_posts/2021-01-17-renko.md)
 
 - [SDSO.lua - Осциллятор Стохастик рассчитанный от стандартного отклонения.](https://github.com/nick-nh/qlua/blob/master/SDSO.lua)
 
@@ -155,11 +155,11 @@ tags: [индикатор,скрипт,робот,lua,qlua,квик,quik]
 
 - [logging - Библиотека логгирования для qlua.](https://github.com/nick-nh/qlua/blob/master/logging)
 
-    - [Описание](/_posts/2021-06-07/logLib)
+    - [Описание](/_posts/2021-06-07-logLib.md)
 
 - [luaCOM - Сборка библиотеки luaCom.](https://github.com/nick-nh/qlua/blob/master/luaCOM)
 
-    - [Описание](/_posts/2021-03-14/maLib)
+    - [Описание](/_posts/2021-03-14-maLib.md)
 
 - [lua_socket_ssl - Сборка библиотек Socket, luaSec (SSL), lCurl.](https://github.com/nick-nh/qlua/blob/master/lua_socket_ssl)
 
@@ -173,12 +173,12 @@ tags: [индикатор,скрипт,робот,lua,qlua,квик,quik]
 
 - [secScanner - Скрипт демонстратор: сканер рынка для терминала Квик, для заданного списка классов инструментов](https://github.com/nick-nh/qlua/blob/master/secScanner)
 
-    - [Описание](/_posts/2021-06-20/secScanner-post)
+    - [Описание](/_posts/2021-06-20-secScanner-post.md)
 
 - [barsSaver - Скрипт выгружающий данные баров и алгоритмов, для заданного списка тикеров](https://github.com/nick-nh/qlua/blob/master/barsSaver)
 
-    - [Описание](/_posts/2021-11-24/barsSaver-post)
+    - [Описание](/_posts/2021-11-24-barsSaver-post.md)
 
 - [telegramQuik - Решение для отправки (получения) сообщений из терминала Квик в Телеграм (telegram bot api), отправка почты](https://github.com/nick-nh/qlua/blob/master/telegramQuik)
 
-    - [Описание](/_posts/2021-03-14/teleMessage)
+    - [Описание](/_posts/2021-03-14-teleMessage.md)
