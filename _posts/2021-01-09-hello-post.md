@@ -17,7 +17,7 @@ tags: [индикатор,скрипт,робот,lua,qlua,квик,quik]
 
 - [maLib.lua - Библиотека типовых методов сглаживания и вспомогательных функция для построения алгоритмов.](https://github.com/nick-nh/qlua/blob/master/maLib.lua)
 
-    - Описание - https://nick-nh.github.io/2021-03-14/maLib
+    - [Описание](/_posts/2021-03-14/maLib)
     - [MA.lua - Базовый пример использования библиотеки в индикаторе](https://github.com/nick-nh/qlua/blob/master/MA.lua)
 
 - [AMA.lua - Адаптивная скользящая средняя Перри Кауфмана.](https://github.com/nick-nh/qlua/blob/master/AMA.lua)
@@ -30,7 +30,7 @@ tags: [индикатор,скрипт,робот,lua,qlua,квик,quik]
 
 - [CenterOfGravity.lua - Center of Gravity Oscillator by John F. Ehlers.](https://github.com/nick-nh/qlua/blob/master/CenterOfGravity.lua)
 
-  - https://www.mesasoftware.com/papers/TheCGOscillator.pdf
+  - [Описание](https://www.mesasoftware.com/papers/TheCGOscillator.pdf)
 
 - [CyberCycle.lua - Adaptive version Cyber cycle by John F. Ehlers.](https://github.com/nick-nh/qlua/blob/master/CyberCycle.lua)
 
@@ -46,16 +46,16 @@ tags: [индикатор,скрипт,робот,lua,qlua,квик,quik]
 
 - [FisherTransform.lua - Fisher Transform by John F. Ehlers.](https://github.com/nick-nh/qlua/blob/master/FisherTransform.lua)
 
-  - https://c.mql5.com/forextsd/forum/3/130fish.pdf
+  - [Описание](https://c.mql5.com/forextsd/forum/3/130fish.pdf]
 
 - [InstantaneousTrend.lua - Instantaneous trend by John F. Ehlers.](https://github.com/nick-nh/qlua/blob/master/InstantaneousTrend.lua)
 
-  - https://c.mql5.com/forextsd/forum/59/023inst.pdf
+  - [Описание](https://c.mql5.com/forextsd/forum/59/023inst.pdf)
 
 - [MESA.lua - Adaptive Moving Averages by John F. Ehlers.](https://github.com/nick-nh/qlua/blob/master/MESA.lua)
 
   - The MESA Adaptive Moving Average ( MAMA ) adapts to price movement based on the rate of change of phase as measured by the Hilbert Transform Discriminator. This method features a fast attack average and a slow decay average so that composite average rapidly ratchets behind price changes and holds the average value until the next ratchet occurs. Consider FAMA (Following AMA) as the signal
-  - https://mesasoftware.com/papers/MAMA.pdf
+  - [Описание](https://mesasoftware.com/papers/MAMA.pdf)
 
 
 - [HeikenAshi.lua - Точки цвета баров HeikenAshi.](https://github.com/nick-nh/qlua/blob/master/HeikenAshi.lua)
@@ -72,15 +72,15 @@ tags: [индикатор,скрипт,робот,lua,qlua,квик,quik]
 
 - [RenkoATR.lua - Реализация баров Ренко.](https://github.com/nick-nh/qlua/blob/master/RenkoATR.lua)
 
-  - https://nick-nh.github.io/2021-01-17/renko
+  - [Описание](/_posts/2021-01-17/renko)
 
 - [emaRenkoATR.lua - EMA поверх баров Ренко.](https://github.com/nick-nh/qlua/blob/master/emaRenkoATR.lua)
 
-  - https://nick-nh.github.io/2021-01-17/renko
+  - [Описание](/_posts/2021-01-17/renko)
 
 - [macdRenkoATR.lua - MACD поверх баров Ренко.](https://github.com/nick-nh/qlua/blob/master/macdRenkoATR.lua)
 
-  - https://nick-nh.github.io/2021-01-17/renko
+  - [Описание](/_posts/2021-01-17/renko)
 
 - [SDSO.lua - Осциллятор Стохастик рассчитанный от стандартного отклонения.](https://github.com/nick-nh/qlua/blob/master/SDSO.lua)
 
@@ -95,11 +95,11 @@ tags: [индикатор,скрипт,робот,lua,qlua,квик,quik]
 - [TTM_Squeeze.lua - TTM Squeeze by John Carter.](https://github.com/nick-nh/qlua/blob/master/TTM_Squeeze.lua)
 
     - Bollinger Bands AND Keltner Channel define the market conditions, i.e. when BB is narrower than KC then we have a market squeeze. When BB break Outside the KC then trade in the direction of the smoothed Momentum.
-    - https://school.stockcharts.com/doku.php?id=technical_indicators:ttm_squeeze
+    - [Описание](https://school.stockcharts.com/doku.php?id=technical_indicators:ttm_squeeze)
 
 - [WaveTrend.lua - WaveTrend [LazyBear] vX by DGT.](https://github.com/nick-nh/qlua/blob/master/WaveTrend.lua)
 
-    - https://ru.tradingview.com/script/cYG1lqRI-WaveTrend-LazyBear-vX-by-DGT/
+    - [Описание](https://ru.tradingview.com/script/cYG1lqRI-WaveTrend-LazyBear-vX-by-DGT/)
 
 - [barIndex.lua - Вывод индекса бара.](https://github.com/nick-nh/qlua/blob/master/barIndex.lua)
 
@@ -155,11 +155,11 @@ tags: [индикатор,скрипт,робот,lua,qlua,квик,quik]
 
 - [logging - Библиотека логгирования для qlua.](https://github.com/nick-nh/qlua/blob/master/logging)
 
-    - Описание - https://nick-nh.github.io/2021-06-07/logLib
+    - [Описание](/_posts/2021-06-07/logLib)
 
 - [luaCOM - Сборка библиотеки luaCom.](https://github.com/nick-nh/qlua/blob/master/luaCOM)
 
-    - Описание - https://nick-nh.github.io/2021-03-14/maLib
+    - [Описание](/_posts/2021-03-14/maLib)
 
 - [lua_socket_ssl - Сборка библиотек Socket, luaSec (SSL), lCurl.](https://github.com/nick-nh/qlua/blob/master/lua_socket_ssl)
 
@@ -173,12 +173,12 @@ tags: [индикатор,скрипт,робот,lua,qlua,квик,quik]
 
 - [secScanner - Скрипт демонстратор: сканер рынка для терминала Квик, для заданного списка классов инструментов](https://github.com/nick-nh/qlua/blob/master/secScanner)
 
-    - Описание - https://nick-nh.github.io/2021-06-20/secScanner-post
+    - [Описание](/_posts/2021-06-20/secScanner-post)
 
 - [barsSaver - Скрипт выгружающий данные баров и алгоритмов, для заданного списка тикеров](https://github.com/nick-nh/qlua/blob/master/barsSaver)
 
-    - Описание - https://nick-nh.github.io/2021-11-24/barsSaver-post
+    - [Описание](/_posts/2021-11-24/barsSaver-post)
 
 - [telegramQuik - Решение для отправки (получения) сообщений из терминала Квик в Телеграм (telegram bot api), отправка почты](https://github.com/nick-nh/qlua/blob/master/telegramQuik)
 
-    - https://nick-nh.github.io/2021-03-14/teleMessage
+    - [Описание](/_posts/2021-03-14/teleMessage)
