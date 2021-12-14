@@ -3,7 +3,7 @@ layout: post
 title: "Курс по написанию скриптов для терминала Квик, языку Lua"
 author: "nnh"
 description: qLua Курс
-tags: [lua,qlua,квик,quik,course]
+tags: [lua,qlua,квик,quik,course,курс_обучения_qlua]
 ---
 
 Для тех кто хочет изучить язык Lua и как писать скрипты для терминала Квик был записан видео-курс.
