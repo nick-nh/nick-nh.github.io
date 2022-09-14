@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Скрипт invest_battle_pro"
+title: "Скрипт, показывающий метки из файлов архива сделок в формате конкурса ЛЧИ."
 author: "nnh"
 description: Cкрипт вывода сделок ЛЧИ.
 tags: [Сделки_ЛЧИ,invest_battle_pro,скрипт,робот,lua,qlua,квик,quik]
