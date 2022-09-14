@@ -196,3 +196,5 @@ tags: [индикатор,скрипт,робот,lua,qlua,квик,quik]
 - [telegramQuik - Решение для отправки (получения) сообщений из терминала Квик в Телеграм (telegram bot api), отправка почты](https://github.com/nick-nh/qlua/blob/master/telegramQuik)
     - [Описание](/_posts/2021-03-14-teleMessage.md)
 <br>
+
+- [Сделки на графике из файлов формата Лучший частный инвестор](https://github.com/nick-nh/qlua/blob/master/invest_battle_pro)
