@@ -16,7 +16,7 @@ tags: [индикатор,скрипт,робот,lua,qlua,квик,quik]
 ## Список индикаторов
 
 - [maLib.lua - Библиотека типовых методов сглаживания и вспомогательных функция для построения алгоритмов.](https://github.com/nick-nh/qlua/blob/master/maLib.lua)
-    - [Описание](2021-03-14-maLib.md)
+    - [Описание](/_posts/2021-03-14-maLib.md)
     - [MA.lua - Базовый пример использования библиотеки в индикаторе](https://github.com/nick-nh/qlua/blob/master/MA.lua)
 <br>
 
@@ -70,15 +70,15 @@ tags: [индикатор,скрипт,робот,lua,qlua,квик,quik]
 - [OnChartStochastic.lua - Осциллятор Стохастик выраженный в цене. Выводится поверх графика.](https://github.com/nick-nh/qlua/blob/master/OnChartStochastic.lua)
 
 - [RenkoATR.lua - Реализация баров Ренко.](https://github.com/nick-nh/qlua/blob/master/RenkoATR.lua)
-  - [Описание](2021-01-17-renko.md)
+  - [Описание](/_posts/2021-01-17-renko.md)
 <br>
 
 - [emaRenkoATR.lua - EMA поверх баров Ренко.](https://github.com/nick-nh/qlua/blob/master/emaRenkoATR.lua)
-  - [Описание](2021-01-17-renko.md)
+  - [Описание](/_posts/2021-01-17-renko.md)
 <br>
 
 - [macdRenkoATR.lua - MACD поверх баров Ренко.](https://github.com/nick-nh/qlua/blob/master/macdRenkoATR.lua)
-  - [Описание](2021-01-17-renko.md)
+  - [Описание](/_posts/2021-01-17-renko.md)
 <br>
 
 - [SDSO.lua - Осциллятор Стохастик рассчитанный от стандартного отклонения.](https://github.com/nick-nh/qlua/blob/master/SDSO.lua)
@@ -168,11 +168,11 @@ tags: [индикатор,скрипт,робот,lua,qlua,квик,quik]
 - [w32.dll - Сборка библиотеки w32.dll](https://github.com/nick-nh/qlua/blob/master/w32.dll.zip)
 
 - [logging - Библиотека логгирования для qlua.](https://github.com/nick-nh/qlua/blob/master/logging)
-    - [Описание](2021-06-07-logLib.md)
+    - [Описание](/_posts/2021-06-07-logLib.md)
 <br>
 
 - [luaCOM - Сборка библиотеки luaCom.](https://github.com/nick-nh/qlua/blob/master/luaCOM)
-    - [Описание](2021-03-14-maLib.md)
+    - [Описание](/_posts/2021-03-14-maLib.md)
 <br>
 
 - [lua_socket_ssl - Сборка библиотек Socket, luaSec (SSL), lCurl.](https://github.com/nick-nh/qlua/blob/master/lua_socket_ssl)
@@ -186,15 +186,15 @@ tags: [индикатор,скрипт,робот,lua,qlua,квик,quik]
 - [scriptMonitor - Монитор (сканер) рынка для терминала Квик, для заданного списка тикеров](https://github.com/nick-nh/qlua/blob/master/scriptMonitor)
 
 - [secScanner - Скрипт демонстратор: сканер рынка для терминала Квик, для заданного списка классов инструментов](https://github.com/nick-nh/qlua/blob/master/secScanner)
-    - [Описание](2021-06-20-secScanner-post.md)
+    - [Описание](/_posts/2021-06-20-secScanner-post.md)
 <br>
 
 - [barsSaver - Скрипт выгружающий данные баров и алгоритмов, для заданного списка тикеров](https://github.com/nick-nh/qlua/blob/master/barsSaver)
-    - [Описание](2021-11-24-barsSaver-post.md)
+    - [Описание](/_posts/2021-11-24-barsSaver-post.md)
 <br>
 
 - [telegramQuik - Решение для отправки (получения) сообщений из терминала Квик в Телеграм (telegram bot api), отправка почты](https://github.com/nick-nh/qlua/blob/master/telegramQuik)
-    - [Описание](2021-03-14-teleMessage.md)
+    - [Описание](/_posts/2021-03-14-teleMessage.md)
 <br>
 
 - [Сделки на графике из файлов формата Лучший частный инвестор](https://github.com/nick-nh/qlua/blob/master/invest_battle_pro)
