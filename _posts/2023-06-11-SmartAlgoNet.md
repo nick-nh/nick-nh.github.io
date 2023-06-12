@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Скрипт SmartAlgoNet"
+title: "Скрипт SmartAlgoNet (Сеточник)"
 author: "nnh"
-description: Скрипт SmartAlgoNet.
+description: Скрипт SmartAlgoNet (Сеточник).
 tags: [скрипт,lua,qlua,квик,quik,сеточник,SmartAlgoNet]
 ---
 
