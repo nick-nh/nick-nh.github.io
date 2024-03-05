@@ -145,7 +145,7 @@ tags: [скрипт,lua,qlua,квик,quik,автостоп]
 
 
 
-### Раздел “НАСТРОЙКИ СТРОПА” содержит настройки:
+### Раздел “НАСТРОЙКИ СТОПА” содержит настройки:
 
  - Тип стоп-лосса. Возможные значения:
    - Stop+Profit - вариант установки стоп-лосса и тейк-профита одной заявкой
@@ -209,18 +209,18 @@ tags: [скрипт,lua,qlua,квик,quik,автостоп]
 ![](/assets/images/mas/trigger_ma.PNG)
 
 Можно указать вариант расчет MA:
-- *EMA - Exponential Moving Average
-- *SMA - Simple Moving Average
-- *WMA - Weighted by index Moving Average
-- *VWMA - Volume Adjusted Moving Average
-- *SMMA - Smoothed Moving Average
-- *TEMA - The Triple Exponential Moving Average
-- *DEMA - The Double Exponential Moving Average
-- *TMA - Triangular (extreme smooth) Moving Average
-- *WILLMA - William Moving Average
-- *FRAMA - Fractal Adaptive Moving Average
-- *SSMA - SuperSmoother filter Moving Average by John F. Ehlers
-- *LSMA - Least Squares MA
+- EMA - Exponential Moving Average
+- SMA - Simple Moving Average
+- WMA - Weighted by index Moving Average
+- VWMA - Volume Adjusted Moving Average
+- SMMA - Smoothed Moving Average
+- TEMA - The Triple Exponential Moving Average
+- DEMA - The Double Exponential Moving Average
+- TMA - Triangular (extreme smooth) Moving Average
+- WILLMA - William Moving Average
+- FRAMA - Fractal Adaptive Moving Average
+- SSMA - SuperSmoother filter Moving Average by John F. Ehlers
+- LSMA - Least Squares MA
 
 ##### Пример окна настройки алгоритма MACD:
 
