@@ -10,6 +10,7 @@ tags: [скрипт,lua,qlua,квик,quik,сеточник,SmartAlgoNet]
 
 
 [Видео настроек, работы скрипта](https://youtube.com/playlist?list=PLJBphc0sVfGaj1jEAmehHgAVXgkH-tO7h)
+[rutube](https://rutube.ru/plst/521968/)
 
 ##	Основные возможности скрипта
 
