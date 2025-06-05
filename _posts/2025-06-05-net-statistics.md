@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Дополнительный модуль к скрипту "Сеточник" (SmartAlgoNet)
+title: 'Дополнительный модуль "СТАТИСТИКА РАБОТЫ СЕТКИ" к скрипту "Сеточник" (SmartAlgoNet)'
 author: "nnh"
-description: Дополнительный модуль к скрипту "Сеточник" (SmartAlgoNet).
+description: Дополнительный модуль "СТАТИСТИКА РАБОТЫ СЕТКИ" к скрипту "Сеточник" (SmartAlgoNet)
 tags: [скрипт,lua,qlua,квик,quik,сеточник,SmartAlgoNet]
 ---
 

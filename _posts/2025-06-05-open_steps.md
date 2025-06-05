@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Дополнительный модуль к скрипту "Автостоп" (multiAutoStop)"
+title: 'Дополнительный модуль "ДОКУПКИ" к скрипту "Автостоп" (multiAutoStop)'
 author: "nnh"
-description: Дополнительный модуль к скрипту "Автостоп" (multiAutoStop).
+description: Дополнительный модуль "ДОКУПКИ" к скрипту "Автостоп" (multiAutoStop)
 tags: [скрипт,lua,qlua,квик,quik,автостоп,multiAutoStop]
 ---
 
