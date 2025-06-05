@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Дополнительный модуль к скрипту "Сеточник" (SmartAlgoNet)
 author: "nnh"

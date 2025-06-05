@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Дополнительный модуль к скрипту "Автостоп" (multiAutoStop)"
 author: "nnh"

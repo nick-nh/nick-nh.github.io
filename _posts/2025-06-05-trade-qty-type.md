@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Дополнительный модуль к скриптам"
 author: "nnh"
