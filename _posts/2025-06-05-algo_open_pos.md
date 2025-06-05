@@ -2,7 +2,7 @@ layout: post
 title: "Дополнительный модуль к скрипту "Автостоп" (multiAutoStop)"
 author: "nnh"
 description: Дополнительный модуль к скрипту "Автостоп" (multiAutoStop).
-tags: [скрипт,lua,qlua,квик,quik,сеточник,SmartAlgoNet,автостоп,multiAutoStop]
+tags: [скрипт,lua,qlua,квик,quik,автостоп,multiAutoStop]
 ---
 
 Дополнительный модуль "ВХОД ТРЕЙЛИНГ ЛИМИТНЫМ ОРДЕРОМ" к скрипту "Автостоп" (multiAutoStop)
