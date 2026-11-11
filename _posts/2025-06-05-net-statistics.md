@@ -3,7 +3,7 @@ layout: post
 title: 'Дополнительный модуль "Статистика работы сетки" к скрипту "Сеточник" (SmartAlgoNet)'
 author: "nnh"
 description: Дополнительный модуль "СТАТИСТИКА РАБОТЫ СЕТКИ" к скрипту "Сеточник" (SmartAlgoNet)
-tags: [скрипт,lua,qlua,квик,quik,сеточник,Сеточник,SmartAlgoNet]
+tags: [скрипт,lua,qlua,квик,quik,сеточник,SmartAlgoNet,SmartGrid]
 ---
 
 ##	Основные возможности
