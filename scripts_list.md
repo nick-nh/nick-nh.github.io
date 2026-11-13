@@ -9,4 +9,4 @@ layout: default
 ## [Скрипт "multiAutoStop"](/_posts/2021-03-14-multiAutoStop.md)
 ## [Курс по написанию скриптов для терминала Квик, языку Lua](/_posts/2021-05-28-qLua-course.md)
 ## [Cкрипт "Журнал сделок" для Квика](/_posts/2025-08-23-trade-log.md)
-## [Cкрипт "Dynamic Watchlist" для Квика](/_posts/2026-11-01-watchWnd-post.md)
+## [Cкрипт сканер "Dynamic Watchlist" для Квика](/_posts/2026-11-01-watchWnd-post.md)
