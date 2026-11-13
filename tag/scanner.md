@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title:  "scanner"
-tag: scaner
+tag: scanner
 robots: noindex
 ---
