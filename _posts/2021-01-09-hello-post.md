@@ -16,14 +16,14 @@ tags: [индикатор,скрипт,робот,lua,qlua,квик,quik]
 ## Список индикаторов
 
 - [maLib.lua - Библиотека типовых методов сглаживания и вспомогательных функция для построения алгоритмов.](https://github.com/nick-nh/qlua/blob/master/maLib.lua)
-
     - [Описание](/2021-03-14/maLib)
     - [MA.lua - Базовый пример использования библиотеки в индикаторе](https://github.com/nick-nh/qlua/blob/master/MA.lua)
 <br>
+<br>
 
 - [k-mean.lua - k-means clustering.](https://github.com/nick-nh/qlua/blob/master/k-mean.lua)
-
-   - [wikipedia] (https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_k-%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D1%85)
+   - [wikipedia](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_k-%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D1%85)
+<br>
 <br>
 
 - [AMA.lua - Адаптивная скользящая средняя Перри Кауфмана.](https://github.com/nick-nh/qlua/blob/master/AMA.lua)
@@ -35,57 +35,56 @@ tags: [индикатор,скрипт,робот,lua,qlua,квик,quik]
 - [BidAskVol.lua - Побарная дельта объемов, собранная по обезличенным сделкам.](https://github.com/nick-nh/qlua/blob/master/BidAskVol.lua)
 
 - [CenterOfGravity.lua - Center of Gravity Oscillator by John F. Ehlers.](https://github.com/nick-nh/qlua/blob/master/CenterOfGravity.lua)
-
   - [Описание](https://www.mesasoftware.com/papers/TheCGOscillator.pdf)
 <br>
+<br>
 - [CyberCycle.lua - Adaptive version Cyber cycle by John F. Ehlers.](https://github.com/nick-nh/qlua/blob/master/CyberCycle.lua)
-
   - see his book `Cybernetic Analysis for Stocks and Futures`, Chapter 4: `Trading the Cycle`
+<br>
 <br>
 
 - [DSMA.lua - Deviation-Scaled Moving Average by John F. Ehlers.](https://github.com/nick-nh/qlua/blob/master/DSMA.lua)
-
   - Featured in John F. Ehlers' article from July 2018 issue of Technical Analysis of Stocks & Commodities magazine, the DSMA (deviation-scaled moving average) is an adaptive moving average that rapidly adapts to volatility in price movement. It accomplishes this by modifying the alpha term of an EMA by the amplitude of an oscillator scaled in standard deviations from the mean. The DSMA's responsiveness can be changed by using different values for the input parameter period.
+<br>
 <br>
 
 - [EFSDO.lua - Fisherized Deviation-Scaled Oscillator by John F. Ehlers.](https://github.com/nick-nh/qlua/blob/master/EFSDO.lua)
-
   - The FDSO (Fisherized Deviation-Scaled Oscillator) is featured in John F. Ehlers' article from October 2018 issue of Technical Analysis of Stocks & Commodities magazine. It's his DSO indicator with non-linear Fisher transform applied to it to make the oscillator suitable for swing trading through improving its probability distribution.
 
 - [FisherTransform.lua - Fisher Transform by John F. Ehlers.](https://github.com/nick-nh/qlua/blob/master/FisherTransform.lua)
-
   - [Описание](https://c.mql5.com/forextsd/forum/3/130fish.pdf]
+<br>
 <br>
 
 - [AutocorrelationPeriodogram.lua - Autocorrelation Periodogram by John F. Ehlers.](https://github.com/nick-nh/qlua/blob/master/AutocorrelationPeriodogram.lua)
-
   -  [Описание](https://traders.com/Documentation/FEEDbk_docs/2016/09/TradersTips.html)
+<br>
 <br>
 
 - [corrCycle.lua - Correlation angle by John F. Ehlers.](https://github.com/nick-nh/qlua/blob/master/corrCycle.lua)
-
   -  [Описание](https://www.mesasoftware.com/papers/CORRELATION%20AS%20A%20CYCLE%20INDICATOR.pdf)
+<br>
 <br>
 
 - [InstantaneousTrend.lua - Instantaneous trend by John F. Ehlers.](https://github.com/nick-nh/qlua/blob/master/InstantaneousTrend.lua)
-
   - [Описание](https://c.mql5.com/forextsd/forum/59/023inst.pdf)
+<br>
 <br>
 
 - [MESA.lua - Adaptive Moving Averages by John F. Ehlers.](https://github.com/nick-nh/qlua/blob/master/MESA.lua)
-
   - The MESA Adaptive Moving Average ( MAMA ) adapts to price movement based on the rate of change of phase as measured by the Hilbert Transform Discriminator. This method features a fast attack average and a slow decay average so that composite average rapidly ratchets behind price changes and holds the average value until the next ratchet occurs. Consider FAMA (Following AMA) as the signal
   - [Описание](https://mesasoftware.com/papers/MAMA.pdf)
 <br>
+<br>
 
 - [HeikenAshi.lua - Точки цвета баров HeikenAshi.](https://github.com/nick-nh/qlua/blob/master/HeikenAshi.lua)
-
   - т.к. терминал Квик не позволяет выводить бары на график, то выводятся точки цвета баров HeikenAshi поверх стандартных баров
+<br>
 <br>
 
 - [Hurst.lua - Вычисление коэффициента Херста.](https://github.com/nick-nh/qlua/blob/master/Hurst.lua)
-
   - ресурсоемкий индикатор
+<br>
 <br>
 
 - [MurreyLevels.lua - Уровни Мюррея.](https://github.com/nick-nh/qlua/blob/master/MurreyLevels.lua)
@@ -96,15 +95,18 @@ tags: [индикатор,скрипт,робот,lua,qlua,квик,quik]
 
   - [Описание](/2021-01-17/renko)
 <br>
+<br>
 
 - [emaRenkoATR.lua - EMA поверх баров Ренко.](https://github.com/nick-nh/qlua/blob/master/emaRenkoATR.lua)
 
   - [Описание](/2021-01-17/renko)
 <br>
+<br>
 
 - [macdRenkoATR.lua - MACD поверх баров Ренко.](https://github.com/nick-nh/qlua/blob/master/macdRenkoATR.lua)
 
   - [Описание](/2021-01-17/renko)
+<br>
 <br>
 
 - [RegRenkoATR.lua - Регрессионный канал поверх баров Ренко.](https://github.com/nick-nh/qlua/blob/master/RegRenkoATR.lua)
@@ -113,18 +115,21 @@ tags: [индикатор,скрипт,робот,lua,qlua,квик,quik]
 
 - [StepNRTR.lua - Вариант индикатора Nick Rypock Trailing Reverse.](https://github.com/nick-nh/qlua/blob/master/StepNRTR.lua)
 
-    - [Основан на методике Константина Копыркина] (http://konkop.narod.ru/Files/4_24_28.pdf)
+    - [Основан на методике Константина Копыркина](http://konkop.narod.ru/Files/4_24_28.pdf)
+<br>
 <br>
 
 - [_nrtr_myv 41.lua - Еще один вариант индикатора Nick Rypock Trailing Reverse.](https://github.com/nick-nh/qlua/blob/master/_nrtr_my%20v41.lua))
 
     - Динамический канал рассчитывается на основе ATR. Фильтрация скользящими средними.
 <br>
+<br>
 
 - [TTM_Squeeze.lua - TTM Squeeze by John Carter.](https://github.com/nick-nh/qlua/blob/master/TTM_Squeeze.lua)
 
     - Bollinger Bands AND Keltner Channel define the market conditions, i.e. when BB is narrower than KC then we have a market squeeze. When BB break Outside the KC then trade in the direction of the smoothed Momentum.
     - [Описание](https://school.stockcharts.com/doku.php?id=technical_indicators:ttm_squeeze)
+<br>
 <br>
 
 - [VolatilityCycle.lua - Volatility Cycle.](https://github.com/nick-nh/qlua/blob/master/VolatilityCycle.lua)
@@ -133,10 +138,12 @@ tags: [индикатор,скрипт,робот,lua,qlua,квик,quik]
 
     - The TMMS oscillator (aka “Trading Made More Simpler”) is an indicator made of conditions based on both 2 separated Stochastic and 1 RSI
 <br>
+<br>
 
 - [JMA_Star_Light.lua - Jurik Research Jurik Moving Average.](https://github.com/nick-nh/qlua/blob/master/JMA_Star_Light.lua)
 
     - [Описание](http://www.jurikres.com/catalog1/ms_ama.htm#top)
+<br>
 <br>
 
 - [JRSX.lua - Jurik Research Relative Strength Quality Index.](https://github.com/nick-nh/qlua/blob/master/JRSX.lua)
@@ -144,16 +151,19 @@ tags: [индикатор,скрипт,робот,lua,qlua,квик,quik]
     - Jurik's RSX is a "noise free" version of RS
     - [Описание](http://www.jurikres.com/catalog1/ms_rsx.htm)
 <br>
+<br>
 
 - [WaveTrend.lua - WaveTrend [LazyBear] vX by DGT.](https://github.com/nick-nh/qlua/blob/master/WaveTrend.lua)
 
     - [Описание](https://ru.tradingview.com/script/cYG1lqRI-WaveTrend-LazyBear-vX-by-DGT/)
+<br>
 <br>
 - [barIndex.lua - Вывод индекса бара.](https://github.com/nick-nh/qlua/blob/master/barIndex.lua)
 
 - [bigPeriodLines.lua - Индикатор вывода линий индикатора большего диапазона на меньший одного тикера.](https://github.com/nick-nh/qlua/blob/master/bigPeriodLines.lua)
 
   - Для примера, вывести с дневного графика на часовой и т.д.
+<br>
 <br>
 
 - [dinapoli.lua - Уровни Джо ДиНаполи в виде гистограммы.](https://github.com/nick-nh/qlua/blob/master/dinapoli.lua)
@@ -166,12 +176,14 @@ tags: [индикатор,скрипт,робот,lua,qlua,квик,quik]
 
     - Если цена несколько раз достигает уровня на заданном периоде бар, при этом этот уровень не пробивался внутри периода.
 <br>
+<br>
 
 - [fibo_ema.lua - EMA с выводом дополнительных канальных линий по уровням Фибоначчи.](https://github.com/nick-nh/qlua/blob/master/fibo_ema.lua)
 
 - [fibo_ema_atr.lua - EMA с выводом дополнительных канальных линий по уровням Фибоначчи по ATR.](https://github.com/nick-nh/qlua/blob/master/fibo_ema_atr.lua)
 
     - Уровни откладываются от величины ATR. Дополнительно можно вывести TEMA, THV.
+<br>
 <br>
 
 - [MA_ATR.lua - Скользящая средняя с выводом канальных линий +/- ATR.](https://github.com/nick-nh/qlua/blob/master/MA_ATR.lua)
@@ -194,22 +206,26 @@ tags: [индикатор,скрипт,робот,lua,qlua,квик,quik]
 
 - [TrendLines.lua - Trendlines with Breaks Вывод наклонных линий тренда от найденных фрактальных уровней.](https://github.com/nick-nh/qlua/blob/master/TrendLines.lua)
 
-    - [Реализация этого индикатора TW] (https://ru.tradingview.com/v/IYL88A1N/)
+    - [Реализация этого индикатора TW](https://ru.tradingview.com/v/IYL88A1N/)
+<br>
 <br>
 
 - [Kase_DevStops.lua - помогает устанавливать динамические стоп-уровни.](https://github.com/nick-nh/qlua/blob/master/Kase_DevStops.lua)
 
     - [Kase Dev Stop от Синтия Кейс (Cynthia Kase)](https://docs.wickra.org/Indicators/Indicator-KaseDevStop)
 <br>
+<br>
 
 - [SupplyAndDemandZones.lua - зоны предложения и зоны спроса.](https://github.com/nick-nh/qlua/blob/master/SupplyAndDemandZones.lua)
 
-    - [Реализация этого индикатора TW] (https://www.tradingview.com/script/vOpLnN91-edgeful-supply-and-demand-zones/)
+    - [Реализация этого индикатора TW](https://www.tradingview.com/script/vOpLnN91-edgeful-supply-and-demand-zones/)
+<br>
 <br>
 
 - [ORB.lua - ORB - Opening Range Breakout.](https://github.com/nick-nh/qlua/blob/master/ORB.lua)
 
     - Индикатор ORB автоматически определяет ценовой диапазон, сформированный в первые минуты торговой сессии (например, 30 минут после открытия). Он рисует на графике горизонтальные линии на уровне High и Low этого диапазона, а также может отображать среднюю точку, цели движения.
+<br>
 <br>
 
 - [pATR.lua - ATR, выраженный в процентах.](https://github.com/nick-nh/qlua/blob/master/pATR.lua)
@@ -252,10 +268,9 @@ tags: [индикатор,скрипт,робот,lua,qlua,квик,quik]
 
     - [Описание](/2021-06-07/logLib)
 <br>
+<br>
 - [luaCOM - Сборка библиотеки luaCom.](https://github.com/nick-nh/qlua/blob/master/luaCOM)
 
-    - [Описание](/2021-03-14/maLib)
-<br>
 - [lua_socket_ssl - Сборка библиотек Socket, luaSec (SSL), lCurl.](https://github.com/nick-nh/qlua/blob/master/lua_socket_ssl)
 
 - [quantScript - Скрипт сканирующий таблицу обезличенных сделок (ТОС)](https://github.com/nick-nh/qlua/blob/master/quantScript)
@@ -270,19 +285,23 @@ tags: [индикатор,скрипт,робот,lua,qlua,квик,quik]
 
     - [Описание](/2021-06-20/secScanner-post)
 <br>
+<br>
 - [barsSaver - Скрипт выгружающий данные баров и алгоритмов, для заданного списка тикеров](https://github.com/nick-nh/qlua/blob/master/barsSaver)
 
     - [Описание](/2021-11-24/barsSaver-post)
+<br>
 <br>
 
 - [signalOrders - Скрипт, выполняющий команды, прочитанные из текстовых файлов, для заданного списка тикеров](https://github.com/nick-nh/qlua/blob/master/signalOrders)
 
     - Пример автоматизации - подписка на получение почтовых сообщений от сервиса TradingView по настроенным сигналам. Чтение почтового ящика, сохранение содержимого полученных писем в каталог, разбор их скриптом, выполнение команд. Т.о. автоматизируется выполнение торговых команд по сигналам TradingView. Также можно отправлять письма вручную, выполняя свои команды.
 <br>
+<br>
 
 - [telegramQuik - Решение для отправки (получения) сообщений из терминала Квик в Телеграм (telegram bot api), отправка почты](https://github.com/nick-nh/qlua/blob/master/telegramQuik)
 
     - [Описание](/2021-03-14/teleMessage)
+<br>
 <br>
 
 - [Сделки на графике из файлов формата Лучший частный инвестор](https://github.com/nick-nh/qlua/blob/master/invest_battle_pro)
