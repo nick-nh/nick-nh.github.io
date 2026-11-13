@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Дополнительный модуль "Тип объёма входа" к скриптам "Автостоп" (multiAutoStop), "Сеточник" (SmartAlgoNet)'
+title: 'Дополнительный модуль "Тип объёма входа" к скриптам "Автостоп" (multiAutoStop), SmartAlgoNet (SmartGrid Сеточник)'
 author: "nnh"
-description: Дополнительный модуль "ТИП ОБЪЁМА ВХОДА" к скриптам "Автостоп" (multiAutoStop), "Сеточник" (SmartAlgoNet)
+description: Дополнительный модуль "ТИП ОБЪЁМА ВХОДА" к скриптам "Автостоп" (multiAutoStop), SmartAlgoNet (SmartGrid Сеточник)
 tags: [скрипт,lua,qlua,квик,quik,сеточник,SmartAlgoNet,SmartGrid,автостоп,multiAutoStop]
 ---
 

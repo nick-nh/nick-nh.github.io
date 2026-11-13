@@ -2,7 +2,7 @@
 layout: post
 title: "Скрипт SmartAlgoNet (SmartGrid Сеточник)"
 author: "nnh"
-description: Скрипт SmartAlgoNet (Сеточник).
+description: Скрипт SmartAlgoNet (SmartGrid Сеточник).
 tags: [скрипт,lua,qlua,квик,quik,сеточник,SmartAlgoNet,SmartGrid]
 ---
 

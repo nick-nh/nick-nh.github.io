@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Дополнительный модуль "БЕЗУБЫТОК" к скрипту SmartAlgoNet (Сеточник)'
+title: 'Дополнительный модуль "БЕЗУБЫТОК" к скрипту SmartAlgoNet (SmartGrid Сеточник)'
 author: "nnh"
-description: Дополнительный модуль "БЕЗУБЫТОК" к скрипту SmartAlgoNet (Сеточник)
+description: Дополнительный модуль "БЕЗУБЫТОК" к скрипту SmartAlgoNet (SmartGrid Сеточник)
 tags: [скрипт,lua,qlua,квик,quik,SmartAlgoNet,SmartGrid]
 ---
 
