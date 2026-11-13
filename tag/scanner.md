@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title:  "secScanner"
+title:  "scanner"
 tag: scaner
 robots: noindex
 ---

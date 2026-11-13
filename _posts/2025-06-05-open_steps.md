@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Дополнительный модуль "Докупки" к скрипту "Автостоп" (multiAutoStop)'
+title: 'Дополнительный модуль "Докупки" к скрипту (роботу) "Автостоп" (multiAutoStop)'
 author: "nnh"
-description: Дополнительный модуль "ДОКУПКИ" к скрипту "Автостоп" (multiAutoStop)
-tags: [скрипт,lua,qlua,квик,quik,автостоп,multiAutoStop]
+description: Дополнительный модуль "ДОКУПКИ" к скрипту (роботу) "Автостоп" (multiAutoStop)
+tags: [скрипт,робот,lua,qlua,квик,quik,автостоп,multiAutoStop]
 ---
 
 ##	Основные возможности

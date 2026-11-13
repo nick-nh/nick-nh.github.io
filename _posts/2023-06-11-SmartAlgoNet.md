@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Скрипт SmartAlgoNet (SmartGrid Сеточник)"
+title: "Скрипт (робот) SmartAlgoNet (SmartGrid Сеточник)"
 author: "nnh"
-description: Скрипт SmartAlgoNet (SmartGrid Сеточник).
-tags: [скрипт,lua,qlua,квик,quik,сеточник,SmartAlgoNet,SmartGrid]
+description: Скрипт (робот) SmartAlgoNet (SmartGrid Сеточник).
+tags: [скрипт,робот,lua,qlua,квик,quik,сеточник,SmartAlgoNet,SmartGrid]
 ---
 
 Скрипт позволяет установить сетку ордеров на вход (выход) в позицию. Реализует сеточную (Grid) торговлю в терминале Квик (Quik). Это полная версия скриптов серии SmartGrid. Позволяет подключать дополнительные расширения, например:

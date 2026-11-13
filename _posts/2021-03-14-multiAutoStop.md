@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Скрипт multiAutoStop"
+title: "Скрипт (робот) multiAutoStop"
 author: "nnh"
-description: Скрипт multiAutoStop.
-tags: [скрипт,lua,qlua,квик,quik,автостоп,multiAutoStop]
+description: Скрипт (робот) multiAutoStop.
+tags: [скрипт,робот,lua,qlua,квик,quik,автостоп,multiAutoStop]
 ---
 
 Реализация автоматической установки стоп, одного или нескольких профит ордеров по открытым позициям, сопровождение позиции, трейла (сдвига) стоп-ордера в терминале Квик (Quik). Позволяет подключать дополнительные расширения, например:

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Скрипт barsSaver"
+title: "Скрипт (робот) barsSaver"
 author: "nnh"
-description: Cкрипт "barsSaver" для Квика.
+description: Cкрипт (робот) "barsSaver" для Квика.
 tags: [barsSaver,скрипт,робот,lua,qlua,квик,quik]
 ---
 

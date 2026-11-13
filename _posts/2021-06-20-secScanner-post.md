@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Скрипт secScanner"
+title: "Скрипт (робот) secScanner"
 author: "nnh"
-description: Cкрипт "Сканер" для Квика.
+description: Cкрипт (робот) "Сканер" для Квика.
 tags: [сканер,scanner,скрипт,робот,lua,qlua,квик,quik]
 ---
 

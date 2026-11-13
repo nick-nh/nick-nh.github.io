@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Дополнительный модуль "Вход трейлинг-лимитным ордером" к скрипту "Автостоп" (multiAutoStop)'
+title: 'Дополнительный модуль "Вход трейлинг-лимитным ордером" к скрипту (роботу) "Автостоп" (multiAutoStop)'
 author: "nnh"
-description: Дополнительный модуль "ВХОД ТРЕЙЛИНГ ЛИМИТНЫМ ОРДЕРОМ" к скрипту "Автостоп" (multiAutoStop).
-tags: [скрипт,lua,qlua,квик,quik,автостоп,multiAutoStop]
+description: Дополнительный модуль "ВХОД ТРЕЙЛИНГ ЛИМИТНЫМ ОРДЕРОМ" к скрипту (роботу) "Автостоп" (multiAutoStop).
+tags: [скрипт,робот,lua,qlua,квик,quik,автостоп,multiAutoStop]
 ---
 
 [Видео работы](https://www.youtube.com/watch?v=xxkrizsB46o&t=1306s)
