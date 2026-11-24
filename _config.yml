@@ -1,5 +1,5 @@
 # Site settings
-title:          nnh Glukk Inc.
+title:          nnhAlgo.
 description:    Разработка qLua скриптов
 url:            https://github.com/nick-nh/
 avatar:         /assets/title.png
@@ -37,7 +37,11 @@ related_posts_section:
   min_common_tags:  2
 
 navigation:
- - title: Продукты
+ - title: Автостоп
+   url: /_posts/2021-03-14-multiAutoStop
+ - title: Сеточник
+   url: /_posts/2023-06-11-SmartAlgoNet
+ - title: Все Продукты
    url: /scripts_list
  - title: About
    url: /about
@@ -46,5 +50,5 @@ navigation:
 social:
   email: nick-h@yandex.ru
   github: https://github.com/nick-nh/qlua
-  twitter: https://twitter.com/niknh
   youtube: https://www.youtube.com/channel/UCKLHojn_B8Zs5GrkGWzmwJQ
+  rutube: https://rutube.ru/channel/42929972/
