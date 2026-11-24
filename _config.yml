@@ -38,9 +38,9 @@ related_posts_section:
 
 navigation:
  - title: Автостоп
-   url: /_posts/2021-03-14-multiAutoStop
+   url: /2021-03-14/multiAutoStop
  - title: Сеточник
-   url: /_posts/2023-06-11-SmartAlgoNet
+   url: /2023-06-11/SmartAlgoNet
  - title: Все Продукты
    url: /scripts_list
  - title: About
